@@ -8,7 +8,7 @@
 
 /src/firebase.js
 
-.firebase
+/.firebase
 # testing
 /coverage
 

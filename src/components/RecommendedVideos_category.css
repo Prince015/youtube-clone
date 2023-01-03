@@ -1,0 +1,17 @@
+
+.recommendedVideos_category1{
+    display: flex;
+    border-top:1px solid lightgray;
+    border-bottom:1px solid lightgray;
+    height: 8vh;
+    max-height: 60px;
+    padding: 0px 1rem;
+    /* padding-left: 20px; */
+    align-items: center;
+    overflow-x: scroll;
+    /* border: 5px solid green; */
+}
+
+.recommendedVideos_category1::-webkit-scrollbar{
+    display: none;
+} 

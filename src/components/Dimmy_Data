@@ -1,0 +1,417 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "guLbQj2T9fLIBg0AUWKGYmZF-gU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "atqJ5dIBsd7GPi5Ts3eHWsKOtT0",
+      "id": "d0UEAr8I9G8",
+      "snippet": {
+        "publishedAt": "2022-02-07T14:16:46Z",
+        "channelId": "UCkLXELm63_pH7L-r-548kig",
+        "title": "Amazon’s Big Game Commercial: Mind Reader",
+        "description": "Is Alexa reading minds a good idea? No. No it is not.\nWatch now and starting 2/9, vote for your favorite ad on Ad Meter! https://admeter.usatoday.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d0UEAr8I9G8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d0UEAr8I9G8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d0UEAr8I9G8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d0UEAr8I9G8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d0UEAr8I9G8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "amazon",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Amazon’s Big Game Commercial: Mind Reader",
+          "description": "Is Alexa reading minds a good idea? No. No it is not.\nWatch now and starting 2/9, vote for your favorite ad on Ad Meter! https://admeter.usatoday.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2169295",
+        "likeCount": "4818",
+        "favoriteCount": "0",
+        "commentCount": "627"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-hU4OyKBQH1tSA4p9872uxGClDU",
+      "id": "8MyLb-eHKG0",
+      "snippet": {
+        "publishedAt": "2022-02-07T03:00:07Z",
+        "channelId": "UCTU5PYs3vQvY8b9kOMoQGUg",
+        "title": "euphoria | season 2 episode 6 promo | hbo",
+        "description": "on the next #EUPHORIA\r\n\r\nZendaya leads an ensemble cast that also includes Maude Apatow, Angus Cloud, Eric Dane, Alexa Demie, Jacob Elordi, Barbie Ferreira, Nika King, Storm Reid, Hunter Schafer, Algee Smith and Sydney Sweeney. \r\n\r\nAll episodes created and written by Sam Levinson, who also serves as executive producer. Other executive producers include Drake, Future the Prince, Ravi Nandan, Kevin Turen, Hadas Mozes Lichtenstein, Ron Leshem, Daphna Levin, Tmira Yardeni, Mirit Toovi, Yoram Mokady, Gary Lennon and Jim Kleverweis. Produced in partnership with A24 and based on the Israeli series of the same name, which was created by Ron Leshem and Daphna Levin, from HOT. \r\n\r\nFollow @euphoria on Instagram: https://www.instagram.com/euphoria \r\nFollow @euphoriaHBO on Twitter: https://www.twitter.com/euphoriaHBO\r\n\r\nLearn more about EUPHORIA: https://www.hbo.com/euphoria",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8MyLb-eHKG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8MyLb-eHKG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8MyLb-eHKG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8MyLb-eHKG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8MyLb-eHKG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "euphoria",
+        "tags": [
+          "hbo",
+          "euphoria",
+          "euphoriahbo",
+          "zendaya",
+          "hunter schafer",
+          "barbie ferreira",
+          "jacob elordi",
+          "sydney sweeney",
+          "alexa demie",
+          "storm reid",
+          "algee smith",
+          "maude apatow",
+          "rue",
+          "jules",
+          "kat",
+          "nate",
+          "cassie",
+          "maddy",
+          "gia",
+          "mckay",
+          "drama",
+          "television",
+          "2019"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "euphoria | season 2 episode 6 promo | hbo",
+          "description": "on the next #EUPHORIA\r\n\r\nZendaya leads an ensemble cast that also includes Maude Apatow, Angus Cloud, Eric Dane, Alexa Demie, Jacob Elordi, Barbie Ferreira, Nika King, Storm Reid, Hunter Schafer, Algee Smith and Sydney Sweeney. \r\n\r\nAll episodes created and written by Sam Levinson, who also serves as executive producer. Other executive producers include Drake, Future the Prince, Ravi Nandan, Kevin Turen, Hadas Mozes Lichtenstein, Ron Leshem, Daphna Levin, Tmira Yardeni, Mirit Toovi, Yoram Mokady, Gary Lennon and Jim Kleverweis. Produced in partnership with A24 and based on the Israeli series of the same name, which was created by Ron Leshem and Daphna Levin, from HOT. \r\n\r\nFollow @euphoria on Instagram: https://www.instagram.com/euphoria \r\nFollow @euphoriaHBO on Twitter: https://www.twitter.com/euphoriaHBO\r\n\r\nLearn more about EUPHORIA: https://www.hbo.com/euphoria"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2331232",
+        "likeCount": "68294",
+        "favoriteCount": "0",
+        "commentCount": "2513"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U4vRmTPdWmt2esSFodCtFRTWOIE",
+      "id": "ASbXzc8pvNE",
+      "snippet": {
+        "publishedAt": "2022-02-06T17:52:34Z",
+        "channelId": "UC6c1z7bA__85CIWZ_jpCK-Q",
+        "title": "Barcelona puts on a show in 4-2 win over Atletico Madrid | LaLiga Highlights | ESPN FC",
+        "description": "Barcelona puts on a show in 4-2 win over Atletico Madrid | LaLiga Highlights | ESPN FC\nAtletico Madrid took an early 1-0 lead from Yannick Carrasco, but Barcelona comes back with goals from Jordi Alba, Gavi, Ronald Araujo and Dani Alves to take the 4-1 lead. Luis Suarez pulls one back with a header, but it wasn’t enough as Barcelona takes the match 4-2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ASbXzc8pvNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ASbXzc8pvNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASbXzc8pvNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ASbXzc8pvNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ASbXzc8pvNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ESPN FC",
+        "tags": [
+          "barcelona",
+          "atleti",
+          "atletico madrid",
+          "barcelona highlights",
+          "ateltico madrid",
+          "atletico madrid highlights",
+          "laliga",
+          "la liga",
+          "la liga highlights",
+          "laliga highlights",
+          "espn fc barcelona",
+          "espn fc atletico madrid",
+          "dani alves",
+          "yannick carrasco",
+          "luis suarez",
+          "ronald araujo",
+          "jordi albo",
+          "gavi",
+          "espn fc laliga",
+          "espn fc la liga",
+          "espn fc la liga highlights",
+          "jordi alba goal",
+          "atletico madrid vs barcelona",
+          "barcelona vs atletico madrid",
+          "la liga barcelona",
+          "espn fc barcelona highlights",
+          "futbol",
+          "highlight"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Barcelona puts on a show in 4-2 win over Atletico Madrid | LaLiga Highlights | ESPN FC",
+          "description": "Barcelona puts on a show in 4-2 win over Atletico Madrid | LaLiga Highlights | ESPN FC\nAtletico Madrid took an early 1-0 lead from Yannick Carrasco, but Barcelona comes back with goals from Jordi Alba, Gavi, Ronald Araujo and Dani Alves to take the 4-1 lead. Luis Suarez pulls one back with a header, but it wasn’t enough as Barcelona takes the match 4-2."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "UM",
+            "US",
+            "VI"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "873819",
+        "likeCount": "13010",
+        "favoriteCount": "0",
+        "commentCount": "1215"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RyRczS2nENwI9VfTuDVlnn2pQ0U",
+      "id": "wBbbnIf7KZQ",
+      "snippet": {
+        "publishedAt": "2022-02-06T22:30:50Z",
+        "channelId": "UC0YatYmg5JRYzXJPxIdRd8g",
+        "title": "Senegal vs Egypt | AFCON 2021 FINAL HIGHLIGHTS | 02/06/2022 | beIN SPORTS USA",
+        "description": "Sadio Mané converted the final penalty that broke Senegal's spell in the African Cup, which they won for the first time in history by beating Egypt.\n\nCatch the latest highlights of Ligue 1🇫🇷, Turkish Süper Lig🇹🇷, \nCopa Libertadores🏆, Copa Sudamericana🥇 on our YouTube channel.\nFollow the latest news on beINSPORTS.com and stream all our games on our app beIN SPORTS CONNECT or our XTRA channels.\nDownload beIN SPORTS CONNECT on Apple devices: https://tinyurl.com/y4bd3osh\nDownload beIN SPORTS CONNECT on Android devices: https://tinyurl.com/yxlst4vj\n\n#Senegal #Egypt #AFCON2021",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wBbbnIf7KZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wBbbnIf7KZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBbbnIf7KZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wBbbnIf7KZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wBbbnIf7KZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "beIN SPORTS USA",
+        "tags": [
+          "Football",
+          "Futbol",
+          "beIN SPORTS",
+          "beIN SPORTS USA"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Senegal vs Egypt | AFCON 2021 FINAL HIGHLIGHTS | 02/06/2022 | beIN SPORTS USA",
+          "description": "Sadio Mané converted the final penalty that broke Senegal's spell in the African Cup, which they won for the first time in history by beating Egypt.\n\nCatch the latest highlights of Ligue 1🇫🇷, Turkish Süper Lig🇹🇷, \nCopa Libertadores🏆, Copa Sudamericana🥇 on our YouTube channel.\nFollow the latest news on beINSPORTS.com and stream all our games on our app beIN SPORTS CONNECT or our XTRA channels.\nDownload beIN SPORTS CONNECT on Apple devices: https://tinyurl.com/y4bd3osh\nDownload beIN SPORTS CONNECT on Android devices: https://tinyurl.com/yxlst4vj\n\n#Senegal #Egypt #AFCON2021"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT13M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "CA",
+            "PR",
+            "US"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "808908",
+        "likeCount": "10286",
+        "favoriteCount": "0",
+        "commentCount": "1764"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KFyTINo4ree52AsxR2s6m8KEo_g",
+      "id": "CWCMGIG1Y54",
+      "snippet": {
+        "publishedAt": "2022-02-07T17:00:09Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay X Selena Gomez - Let Somebody Go (Official Video)",
+        "description": "Coldplay X @Selena Gomez  - Let Somebody Go - Official Video\n\nThe new single from Coldplay's latest album Music Of The Spheres, featuring the hit singles Higher Power & My Universe. Stream/download the album here - https://coldplay.lnk.to/MOTS\n\nListen to the Music Of The Spheres on YouTube: \nhttps://www.youtube.com/playlist?list=PLsvoYlzBrLFANzvFcwzeMGQhemT6X1Pvg\n\nSubscribe for more official content from Coldplay: https://Coldplay.lnk.to/Subscribe  \n\nSee more official videos from Coldplay here:\nhttps://www.youtube.com/playlist?list=PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU\n\nFollow Coldplay\nWebsite: http://www.coldplay.com\nTwitter: https://twitter.com/coldplay\nFacebook: https://www.facebook.com/coldplay\nInstagram: http://instagram.com/coldplay\n\nDirector: Dave Meyers\nEP / Producer: Nathan Scherrer\nCo - Producer: Brian Bell\nProduction Supervisor: Julio Mata Jr.\nProduction Manager: Christine Park\nProduction Coordinator: Chris Fish\n1st AD: Kenny Taylor\n2nd AD: Gerald Hickman\n2nd 2nd AD: Sarah Craveiro\n\nConceived by Dave Meyers and Yoann Bourgeois  \n\nCAMERA                                                        \nDirector of Photography: Scott Cunningham                  \n1st AC: Pergrin Jung                \n2nd AC: Amina Zadeh  \nDIT: Daniel Satinoff            \n\nART DEPARTMENT\nProduction Designer: Francois Audouy\nArt Coordinator: Jessica Madia\nSet Decorator: Sandy Lindstedt\nLeadman: Sean Deveaux\nSet Dressers: David Lafond, Brandon Allhouse, Jason Bowman, Bradley Specht, Michael Oliver, Jonathan Amico\nScenic: Mikhail Pecherkin, Ashleigh Scott\nLead FX: Tim Geary\n \nCHOREOGRAPHY\nChoreographer: Yoann Bourgeois\nChoreographer Asst: Marie Vaudin\n     \nELECTRIC                                                        \nGaffer: Mike Van Meter                      \nBBE: Vincent O Carroll                    \nElectric: Steven Martinez, Ernie Rosas                \nElectric Hyphenate Driver: Payton Ewing                          \n\nGRIP                                                    \nKey Grip: Dave Riggio                            \nBBG: Reece Glover              \nDolly Grip: Craig Riley                  \nGrip: Mike Guthrie, Ricky Rosales, Mike Muller, Arik Hirsch      \nGrip Driver: Anthony Mollicone                \n\nVTR/PLAYBACK                                                          \nVTR: Matt Schaver                          \nPlayback: Robert Buckholz        \n\nPRODUCTION\nPA - Set: Trey Hickman, Rainey Zimmermann, Emmett Tekstra, Michael Ochoa, Tommy Gleason\nPA - Truck: Allen Amechi\nDirector's Assist: Mia Barnes\nDirector's Assist: Cameron Erickson\n\nSTYLING\nColdplay Clothing Director & Stylist: Beth Fenton\nChris Martin Video Styling: Marta Del Rio\nGroomer: Sienree Du & Britt Sully\nSelena Gomez Stylist: Kate Young\nHair: Marissa Marino\nMakeup: Melissa Murdick\nNails: Tom Bachik\nBG Stylist: Lisa Madonna\n\nSTUNTS\nStunt Coordinator: Brian Simpson\nStunt Utility: Jimmy Stephans, Mike Owen, Clint Jones, Ryan DeVida\nStunt Double: Owen Szabo & Kate Cochran\n\nTELECINE\nColourist: Les Umberger\n\nEDITORIAL\nEditor: Alyssa Oh\nAssistant Editor: Jack Kanner\nEdit Producer: Janae Abraham      \n\nVFX – MOD CREATIONS\nVFX Supervisor: Les Umberger\nSr. VFX Artist: Ryan O’Phelan, Chris Nik\nSr. Compositor: Tina Wallace\nCG Generalist: Glenn bundesmann\nCompositors: Lautaro Monardo & Vincent Wood\n\nVFX – TIPPET STUDIOS\nEP: Gary Mundell\nVFX Producer: Dale Taylor\nVFX Production Mngr: Carlos Delgado\nLayout Supervisior: Christopher Paizis\nCG Supervisor: Chris Hanlon\nCompositing Supervisor: Ross Nakamura\nVFX Editor: Ken Rogerson\n\nFREENJOY\nHead of Production: Ben Piety\nCreative Producer: Tara Sheree\nFinancial Controller: Kim Rosenthal\nFinancial Controller Asst: Tommy Gleason\n\nABOUT SELENA GOMEZ\nSelling more than 176 million singles and over 34 billion global streams it’s safe to say Selena has achieved great success as a recording artist. “Lose You To Love Me,” the first single off her critically acclaimed album “Rare,” marked a historic moment for the singer as she landed her first No. 1 on the Billboard Hot 100 chart. The album debuted at the top of the charts; her third consecutive album to debut at No.1 on the Billboard Album chart. Most recently, Selena released her well received EP “Relevación”, her first all-Spanish language music project which was nominated for a Latin Grammy.  Gomez has produced a fearless slate of both television and film including the hit Netflix original series “13 Reasons Why.”  She went on to produce the lauded Netflix docu-series “Living Undocumented.  Gomez executive produces and appears on the buzzworthy hit HBO Max cooking series “Selena + Chef.”  Most recently, Selena executive produced and stars in the critically acclaimed Hulu series “Only Murders in the Building”. Last year, Gomez launched her beauty line Rare Beauty.  As part of the partnership, Gomez launched the Rare Impact Fund, pledging to raise $100 million for mental health services.\n\n#Coldplay #SelenaGomez #LetSomebodyGo #MusicOfTheSpheres #MOTS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CWCMGIG1Y54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CWCMGIG1Y54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CWCMGIG1Y54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CWCMGIG1Y54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CWCMGIG1Y54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coldplay",
+        "tags": [
+          "Coldplay",
+          "Selena Gomez",
+          "Let Somebody Go",
+          "Coldplay Selena Gomez",
+          "Coldplay Let Somebody Go",
+          "Selena Gomez Coldplay Let Somebody Go",
+          "Let Somebody Go Lyrics",
+          "Coldplay Official video",
+          "Music Of The Spheres",
+          "Coldplay Lyrics",
+          "Coldplay Lyric Videos",
+          "Music Of The Spheres Official Videos",
+          "Chris Martin",
+          "Jonny Buckland",
+          "Guy Berryman",
+          "Will Champion",
+          "Coldplay 2021",
+          "Pop",
+          "Pop Music",
+          "Coldplay New Song",
+          "Coldplay Songs",
+          "Coldplay Music",
+          "#MOTS",
+          "Coldplay Visualiser",
+          "Coldplay Official"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Coldplay X Selena Gomez - Let Somebody Go (Official Video)",
+          "description": "Coldplay X @Selena Gomez  - Let Somebody Go - Official Video\n\nThe new single from Coldplay's latest album Music Of The Spheres, featuring the hit singles Higher Power & My Universe. Stream/download the album here - https://coldplay.lnk.to/MOTS\n\nListen to the Music Of The Spheres on YouTube: \nhttps://www.youtube.com/playlist?list=PLsvoYlzBrLFANzvFcwzeMGQhemT6X1Pvg\n\nSubscribe for more official content from Coldplay: https://Coldplay.lnk.to/Subscribe  \n\nSee more official videos from Coldplay here:\nhttps://www.youtube.com/playlist?list=PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU\n\nFollow Coldplay\nWebsite: http://www.coldplay.com\nTwitter: https://twitter.com/coldplay\nFacebook: https://www.facebook.com/coldplay\nInstagram: http://instagram.com/coldplay\n\nDirector: Dave Meyers\nEP / Producer: Nathan Scherrer\nCo - Producer: Brian Bell\nProduction Supervisor: Julio Mata Jr.\nProduction Manager: Christine Park\nProduction Coordinator: Chris Fish\n1st AD: Kenny Taylor\n2nd AD: Gerald Hickman\n2nd 2nd AD: Sarah Craveiro\n\nConceived by Dave Meyers and Yoann Bourgeois  \n\nCAMERA                                                        \nDirector of Photography: Scott Cunningham                  \n1st AC: Pergrin Jung                \n2nd AC: Amina Zadeh  \nDIT: Daniel Satinoff            \n\nART DEPARTMENT\nProduction Designer: Francois Audouy\nArt Coordinator: Jessica Madia\nSet Decorator: Sandy Lindstedt\nLeadman: Sean Deveaux\nSet Dressers: David Lafond, Brandon Allhouse, Jason Bowman, Bradley Specht, Michael Oliver, Jonathan Amico\nScenic: Mikhail Pecherkin, Ashleigh Scott\nLead FX: Tim Geary\n \nCHOREOGRAPHY\nChoreographer: Yoann Bourgeois\nChoreographer Asst: Marie Vaudin\n     \nELECTRIC                                                        \nGaffer: Mike Van Meter                      \nBBE: Vincent O Carroll                    \nElectric: Steven Martinez, Ernie Rosas                \nElectric Hyphenate Driver: Payton Ewing                          \n\nGRIP                                                    \nKey Grip: Dave Riggio                            \nBBG: Reece Glover              \nDolly Grip: Craig Riley                  \nGrip: Mike Guthrie, Ricky Rosales, Mike Muller, Arik Hirsch      \nGrip Driver: Anthony Mollicone                \n\nVTR/PLAYBACK                                                          \nVTR: Matt Schaver                          \nPlayback: Robert Buckholz        \n\nPRODUCTION\nPA - Set: Trey Hickman, Rainey Zimmermann, Emmett Tekstra, Michael Ochoa, Tommy Gleason\nPA - Truck: Allen Amechi\nDirector's Assist: Mia Barnes\nDirector's Assist: Cameron Erickson\n\nSTYLING\nColdplay Clothing Director & Stylist: Beth Fenton\nChris Martin Video Styling: Marta Del Rio\nGroomer: Sienree Du & Britt Sully\nSelena Gomez Stylist: Kate Young\nHair: Marissa Marino\nMakeup: Melissa Murdick\nNails: Tom Bachik\nBG Stylist: Lisa Madonna\n\nSTUNTS\nStunt Coordinator: Brian Simpson\nStunt Utility: Jimmy Stephans, Mike Owen, Clint Jones, Ryan DeVida\nStunt Double: Owen Szabo & Kate Cochran\n\nTELECINE\nColourist: Les Umberger\n\nEDITORIAL\nEditor: Alyssa Oh\nAssistant Editor: Jack Kanner\nEdit Producer: Janae Abraham      \n\nVFX – MOD CREATIONS\nVFX Supervisor: Les Umberger\nSr. VFX Artist: Ryan O’Phelan, Chris Nik\nSr. Compositor: Tina Wallace\nCG Generalist: Glenn bundesmann\nCompositors: Lautaro Monardo & Vincent Wood\n\nVFX – TIPPET STUDIOS\nEP: Gary Mundell\nVFX Producer: Dale Taylor\nVFX Production Mngr: Carlos Delgado\nLayout Supervisior: Christopher Paizis\nCG Supervisor: Chris Hanlon\nCompositing Supervisor: Ross Nakamura\nVFX Editor: Ken Rogerson\n\nFREENJOY\nHead of Production: Ben Piety\nCreative Producer: Tara Sheree\nFinancial Controller: Kim Rosenthal\nFinancial Controller Asst: Tommy Gleason\n\nABOUT SELENA GOMEZ\nSelling more than 176 million singles and over 34 billion global streams it’s safe to say Selena has achieved great success as a recording artist. “Lose You To Love Me,” the first single off her critically acclaimed album “Rare,” marked a historic moment for the singer as she landed her first No. 1 on the Billboard Hot 100 chart. The album debuted at the top of the charts; her third consecutive album to debut at No.1 on the Billboard Album chart. Most recently, Selena released her well received EP “Relevación”, her first all-Spanish language music project which was nominated for a Latin Grammy.  Gomez has produced a fearless slate of both television and film including the hit Netflix original series “13 Reasons Why.”  She went on to produce the lauded Netflix docu-series “Living Undocumented.  Gomez executive produces and appears on the buzzworthy hit HBO Max cooking series “Selena + Chef.”  Most recently, Selena executive produced and stars in the critically acclaimed Hulu series “Only Murders in the Building”. Last year, Gomez launched her beauty line Rare Beauty.  As part of the partnership, Gomez launched the Rare Impact Fund, pledging to raise $100 million for mental health services.\n\n#Coldplay #SelenaGomez #LetSomebodyGo #MusicOfTheSpheres #MOTS"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3052506",
+        "likeCount": "344282",
+        "favoriteCount": "0",
+        "commentCount": "19475"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}

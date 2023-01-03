@@ -1,0 +1,47 @@
+.recommendedVideos_videos{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-rows: 370px;
+  place-items: center;
+  grid-column-gap: 20px;
+  overflow-y: scroll;
+  padding: 30px 25px;
+  padding-bottom: 0;
+  max-height: 84vh;
+  /* border: 5px solid yellowgreen; */
+}
+
+.recommendedVideos_videos::-webkit-scrollbar {
+  display: none;
+}
+
+@media (width < 1290px) {
+  .recommendedVideos_videos {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (width < 1080px) {
+  .recommendedVideos_videos {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (width < 1000px) {
+  .recommendedVideos_videos {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (width < 990px) {
+  .recommendedVideos_videos {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (width < 680px) {
+  .recommendedVideos_videos {
+    grid-template-columns: 1fr;
+  }
+}
+

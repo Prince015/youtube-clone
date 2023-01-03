@@ -1,0 +1,94 @@
+.sidebar{
+    width: 200px;
+    /* padding-top: 1rem; */
+    max-height: 92vh;
+    padding-right: 1px;
+    overflow-y: scroll;
+    /* border: 5px solid blueviolet; */
+}
+
+.sidebar_signIn{
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.signIn_message{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.hr{
+    height: 1px;
+    border: 0px;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.toggleBarTrue{
+    transition: transform 0.4s ease-in; 
+    transform: translateX(-100%);
+    
+}
+
+.toggleBarFalse{
+    transition: transform 0.4s ease-out;
+    transform: translateX(0%);
+}
+
+@media (width < 1080px ) {
+    .sidebar{
+        width: fit-content;
+    }
+    .signIn_message{
+        display: none;
+    }
+    .sidebar_signIn{
+        display: none;
+    }
+}
+
+.sidebar::-webkit-scrollbar{
+    width: 0.2em;
+}
+.sidebar::-webkit-scrollbar-thumb {
+    background-color: lightgray;
+    /* outline: 1px solid slategrey; */
+    outline: 1px solid darkgray;
+    border-radius: 30px;
+  }
+
+@media (width < 1080px ) {
+    .sidebar{
+        width: 135px;
+        /* margin-top: 15px; */
+    }
+}
+
+@media (width < 1000px ) {
+    .sidebar{
+        width: 100px;
+        /* margin-top: 15px; */
+    }
+}
+
+@media (width < 460px ) {
+    .sidebar{
+        text-align: center;
+        display: flex;
+        align-items: center;
+    }
+
+}
+
+
+@media (width < 460px ) {
+    .sidebar{
+        display: none;
+    }
+}

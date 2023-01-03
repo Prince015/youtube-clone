@@ -1,0 +1,21 @@
+.RecommendedVideosCategory{
+    border: 1px solid rgba(211, 211, 211, 0.877);
+    padding: 6px 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    font-size: 25x;
+    font-weight: 600;
+    color: rgba(45, 46, 46, 0.959);
+    background-color: hsla(0, 0%, 87%, 0.500);
+    min-width: max-content;
+    text-align: center;
+    cursor: pointer;
+}
+
+.RecommendedVideosCategory:hover{
+    background-image: linear-gradient(to bottom right, hsla(0, 42%, 75%, 0.712), hsla(0, 0%, 87%, 0.500));
+}
+
+.RecommendedVideosCategory.selected{
+    background-image: linear-gradient(to bottom right, hsla(0, 42%, 75%, 0.712), hsla(0, 0%, 87%, 0.500));
+}

@@ -1,0 +1,29 @@
+.app_page{
+    display: flex;
+    max-height: 92vh;
+    /* border: 5px solid blue; */
+}
+
+.app_play{
+    display: grid;
+    max-height: 92vh;
+    grid-template-rows: 8vh auto;
+    background-color: #f9f9f9;
+    /* border: 5px solid red; */
+    flex: 1;
+}
+.app_play.toggled{
+    display: grid;
+    height: 92vh;
+    position: fixed;
+    /* border: 5px solid red; */
+    grid-template-rows: 8vh auto;
+    background-color: #f9f9f9;
+    flex: 1;
+}
+
+@media (width < 460px ) {
+    .app_page, .app_play, .app_play.toggled{
+        max-height: 84vh;
+    }
+}
